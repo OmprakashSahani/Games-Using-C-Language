@@ -47,6 +47,7 @@ Steps:
 
 Example Gameplay
 
+
 ######################
 #                    #
 #         O          #
@@ -55,6 +56,7 @@ Example Gameplay
 #                    #
 #                    #
 ######################
+
 Score: 10
 
 
